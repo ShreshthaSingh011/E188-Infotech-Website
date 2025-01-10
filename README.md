@@ -1,2 +1,2 @@
 # E188-Infotech-Website
-The official Website for an Infotech company
+The official Website of an Infotech company
